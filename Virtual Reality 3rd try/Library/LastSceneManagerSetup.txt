@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Nisha Dangol/Desktop/Unity/Virtual Reality second try/Assets/vr2ndTry.unity
+  isLoaded: 1
+  isActive: 1

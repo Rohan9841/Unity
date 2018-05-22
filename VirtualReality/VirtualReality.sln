@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualReality", "VirtualReality.csproj", "{DCA14317-434C-4741-23E6-E0B8BCA134E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualReality.Editor", "VirtualReality.Editor.csproj", "{DB91AC45-DC31-8DA1-1166-F29E28344844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA14317-434C-4741-23E6-E0B8BCA134E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA14317-434C-4741-23E6-E0B8BCA134E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA14317-434C-4741-23E6-E0B8BCA134E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA14317-434C-4741-23E6-E0B8BCA134E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB91AC45-DC31-8DA1-1166-F29E28344844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB91AC45-DC31-8DA1-1166-F29E28344844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB91AC45-DC31-8DA1-1166-F29E28344844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB91AC45-DC31-8DA1-1166-F29E28344844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
